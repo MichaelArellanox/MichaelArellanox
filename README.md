@@ -8,4 +8,7 @@ Hello! I'm Michael. I am an aspiring Data Analyst and have created this portfoli
 + Data analysis using SQL.
 
 
+💡 **Skills**
+
+
 
