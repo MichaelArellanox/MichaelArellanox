@@ -7,8 +7,12 @@ Hello! I'm Michael. I am an aspiring Data Analyst and have created this portfoli
 + Developing dashboards using Power BI.
 + Data analysis using SQL.
 
+📊 **Projects**
+
+I have created a guide to showcase my [projects](https://github.com/MichaelArellanox/Portfolio)
+
 
 💡 **Skills**
-
-
+- Programming Languages: SQL, Python
+- Data Visualizations: Power BI
 
