@@ -3,9 +3,9 @@
 
 
 Hello! I'm Michael. I am an aspiring Data Analyst and have created this portfolio to showcase my expertise with some of my work and projects.
-+ Data cleaning using SQL.
-+ Developing dashboards using Power BI.
-+ Data analysis using SQL.
++ x
++ y
++ z
 
 📊 **Projects**
 
@@ -13,6 +13,6 @@ I have created a guide to showcase my [projects](https://github.com/MichaelArell
 
 
 💡 **Skills**
-- Programming Languages: SQL, Python
+- Programming Languages: SQL, Python, R Programming
 - Data Visualizations: Power BI
 
