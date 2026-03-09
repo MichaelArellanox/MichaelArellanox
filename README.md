@@ -3,9 +3,10 @@
 
 
 Hello! I'm Michael. I am an aspiring Data Analyst and have created this portfolio to showcase my expertise with some of my work and projects.
-+ x
-+ y
-+ z
+
++ **Statistical Analysis** – Applying statistical techniques to identify trends, patterns, and insights in data.
++ **Data Wrangling** – Cleaning, transforming, and structuring data using Python, R, and SQL.
++ **Visualization & Business Insights** – Building dashboards and reports in Power BI to communicate data-driven insights.
 
 📊 **Projects**
 
