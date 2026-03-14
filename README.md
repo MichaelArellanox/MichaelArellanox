@@ -10,7 +10,7 @@ Hello! I'm Michael. I am an aspiring Data Analyst and have created this portfoli
 
 📊 **Projects**
 
-I have created a guide to showcase my [projects](https://github.com/MichaelArellanox/Portfolio)
+I have created a guide to showcase my [projects](https://github.com/MichaelArellanox/Portfolio). Portfolio is still not completed.
 
 
 💡 **Skills**
